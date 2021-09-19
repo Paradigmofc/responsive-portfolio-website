@@ -670,6 +670,14 @@ img {
     bottom: -2.5rem;
 }
 
+.swiper-button-prev {
+    left: -.25rem;
+}
+
+.swiper-button-next {
+    right: -0.25rem;
+}
+
 .swiper-pagination-bullet-active {
     background-color: var(--first-color);
 }
